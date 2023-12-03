@@ -55,14 +55,17 @@
 
         h2 {
             font-weight: bold;
-            margin: 0 6px 0;
-            font-size: 22px;
+            margin: 0 7px 0;
+            font-size: 35px;
             color: #4a4a4a;
         }
 
         p {
-            font-weight: lighter;
+            font-family: "Source Sans 3", sans-serif;
+            font-weight: 600;
             font-size: 16px;
+            margin-top: 5px;
+            color: #2f2b2b;
         }
     }
 }
